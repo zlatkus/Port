@@ -1,6 +1,8 @@
 # NPM
 $ npm install nes.css
 
+<link href="./css/nes.css" rel="stylesheet">
+
 #container {
  
   background-color: black
