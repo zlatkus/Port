@@ -22,7 +22,6 @@ html {
 }
 
 body {
-  display: flex;
   width: 150px;
   margin: auto;
   background-color: #E1E1E1;
