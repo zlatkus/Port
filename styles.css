@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  vertical-align: middle;
+  position: absolute;
   width: 150px;
   margin: auto;
   background-color: #E1E1E1;
